@@ -1,0 +1,7 @@
+torch
+torchvision
+pytorch-lightning
+torchmetrics
+pandas
+scikit-learn
+pillow
